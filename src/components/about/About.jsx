@@ -37,15 +37,14 @@ const About = () => {
               <h5>Projetos</h5>
               <small>15+ Projetos completos</small>
             </article>
-
-            <p>Oi, pessoal! <br />
-
-              Estou me formando em ciências da computação pela UEPB. Onde eu iniciei a minha imersão no mundo da programação ao qual venho me especializando diariamente no desenvolvimento de aplicações webs. Atualmente faço parte de uma empresa Jr. chamada Knex a qual eu e uns amigos estamos nos dedicando muito, adquirindo conhecimentos e experiências em projetos reais. <br />
-
-              Eu sou apaixonado pelo back-end e atualmente estou em processo de especialização em javascript nodejs. Sou uma pessoa curiosa e costumo fazer muitas perguntas se me encontro com dúvidas. Cotidianamente eu sigo trabalhando na minha melhor versão, e uma frase que levo sempre comigo, é a seguinte: "Viva como um eterno aprendiz.". Pois, acredito que independente da idade, da especialização ou da formação... alguém sempre tem algo a nos ensinar.</p>
-
-            <a href="#contact" className='btn btn-primary'>Vamos Conversar?</a>
           </div>
+          <p>Oi, pessoal! <br />
+
+            Estou me formando em ciências da computação pela UEPB. Onde eu iniciei a minha imersão no mundo da programação ao qual venho me especializando diariamente no desenvolvimento de aplicações webs. Atualmente faço parte de uma empresa Jr. chamada Knex a qual eu e uns amigos estamos nos dedicando muito, adquirindo conhecimentos e experiências em projetos reais. <br />
+
+            Eu sou apaixonado pelo back-end e atualmente estou em processo de especialização em javascript nodejs. Sou uma pessoa curiosa e costumo fazer muitas perguntas se me encontro com dúvidas. Cotidianamente eu sigo trabalhando na minha melhor versão, e uma frase que levo sempre comigo, é a seguinte: "Viva como um eterno aprendiz.". Pois, acredito que independente da idade, da especialização ou da formação... alguém sempre tem algo a nos ensinar.</p>
+
+          <a href="#contact" className='btn btn-primary'>Vamos Conversar?</a>
         </div>
       </div>
 
