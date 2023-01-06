@@ -11,7 +11,7 @@ import { TbMessages } from 'react-icons/tb'
 const Nav = () => {
   return (
     <nav>
-      <a href="a" ><BiHome /></a>
+      <a href="a" className='active'><BiHome /></a>
       <a href="#about"><BiUser /></a>
       <a href="#experience"><GoBook /></a>
       <a href="#services"><RiServiceLine /></a>
