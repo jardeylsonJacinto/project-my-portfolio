@@ -5,17 +5,19 @@ import { BiUser } from 'react-icons/bi'
 import { GoBook } from 'react-icons/go'
 import { RiServiceLine } from 'react-icons/ri'
 import { TbMessages } from 'react-icons/tb'
+import { useState } from 'react';
 
 
 
 const Nav = () => {
+  const [activeNav, setActiveNav] = useState('#');
   return (
     <nav>
-      <a href="a" className='active'><BiHome /></a>
-      <a href="#about"><BiUser /></a>
-      <a href="#experience"><GoBook /></a>
-      <a href="#services"><RiServiceLine /></a>
-      <a href="#contact"><TbMessages /></a>
+      <a href="#" onClick={() => setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><BiHome /></a>
+      <a href="#about" onClick={() => setActiveNav('#about')} className={activeNav === '#about' ? 'active' : ''}><BiUser /></a>
+      <a href="#experience" onClick={() => setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><GoBook /></a>
+      <a href="#services" onClick={() => setActiveNav('#services')} className={activeNav === '#services' ? 'active' : ''}><RiServiceLine /></a>
+      <a href="#contact" onClick={() => setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}><TbMessages /></a>
 
     </nav>
   )
