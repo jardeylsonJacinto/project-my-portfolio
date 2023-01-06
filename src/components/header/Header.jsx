@@ -7,7 +7,7 @@ import ME from '../../assets/me.png';
 
 const Header = () => {
   return (
-    <header>
+    <header id='index'>
       <div className="container header__container">
         <h4>Olá! eu sou</h4>
         <h1>Jardeylson Jacinto</h1>
@@ -16,7 +16,7 @@ const Header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={ME} alt="profile" />
+          <img src={ME} alt="Perfil" />
         </div>
 
         <a href="#contact" className="scroll__down">Scroll Down</a>
