@@ -38,7 +38,7 @@ const About = () => {
               <small>15+ Projetos completos</small>
             </article>
           </div>
-          <p>Oi, pessoal! <br />
+          <p>Oi! <br />
 
             Estou me formando em ciências da computação pela UEPB. Onde eu iniciei a minha imersão no mundo da programação ao qual venho me especializando diariamente no desenvolvimento de aplicações webs. Atualmente faço parte de uma empresa Jr. chamada Knex a qual eu e uns amigos estamos nos dedicando muito, adquirindo conhecimentos e experiências em projetos reais. <br />
 
