@@ -15,39 +15,51 @@ const Experience = () => {
           <h3>Desenvolvimento Frontend</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>HTML</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>HTML</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>CSS</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>CSS</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>Javascript</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>Javascript</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>JQuary</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>JQuary</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>Bootstrap</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>Bootstrap</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>React</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>React</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
           </div>
         </div>
@@ -58,39 +70,51 @@ const Experience = () => {
           <h3>Desenvolvimento Backend</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>Node JS</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>Node JS</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>Express</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>Express</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>Typescript</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>Typescript</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>MongoDB</h4>
-              <small className="text-light"> Experienced </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>MongoDB</h4>
+                <small className="text-light"> Experienced </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>Python</h4>
-              <small className="text-light"> Intermediate </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>Python</h4>
+                <small className="text-light"> Intermediate </small>
+              </div>
             </article>
 
             <article className='experience__details'>
-              <BsCheck2Circle />
-              <h4>MySQL</h4>
-              <small className="text-light"> Basic </small>
+              <BsCheck2Circle className='experience__details-icon' />
+              <div>
+                <h4>MySQL</h4>
+                <small className="text-light"> Basic </small>
+              </div>
             </article>
           </div>
         </div>
