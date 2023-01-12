@@ -59,9 +59,7 @@ const Portfolio = () => {
     <section id='portfolio'>
       <h5>Meus trabalhos recenter</h5>
       <h2>Portfólio</h2>
-
-<<<<<<< HEAD
-      <div className="container portfolio__container">
+      <div className="container portfolio__conteiner">
         {
           data.map(({ id, image, title, github, demo }) => {
             return (
@@ -78,76 +76,6 @@ const Portfolio = () => {
             )
           })
         }
-=======
-      <div className="container portfolio__conteiner">
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG1} alt="" />
-          </div>
-          <h3>this is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="##" className='btn' target='_blank'>Github</a>
-            <a href="##" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG2} alt="" />
-          </div>
-          <h3>this is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="##" className='btn' target='_blank'>Github</a>
-            <a href="##" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG3} alt="" />
-          </div>
-          <h3>this is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="##" className='btn' target='_blank'>Github</a>
-            <a href="##" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG4} alt="" />
-          </div>
-          <h3>this is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="##" className='btn' target='_blank'>Github</a>
-            <a href="##" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG5} alt="" />
-          </div>
-          <h3>this is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="##" className='btn' target='_blank'>Github</a>
-            <a href="##" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-
-        <article className="portfolio__item">
-          <div className="portfolio__item-image">
-            <img src={IMG6} alt="" />
-          </div>
-          <h3>this is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="##" className='btn' target='_blank'>Github</a>
-            <a href="##" className='btn btn-primary' target='_blank'>Live Demo</a>
-          </div>
-        </article>
-
-
->>>>>>> parent of 35f9877 (feat: Portfolio Component Responsive Design)
       </div>
     </section>
   )

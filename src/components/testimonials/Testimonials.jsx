@@ -15,21 +15,23 @@ const Testimonials = () => {
         <article className="testimonial">
           <div className="client__avatar">
             <img src={AVTR1} alt="Avatar one" />
-            <h5 className='client__name'>Ernest Achiecer</h5>
-            <small className="client__review">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum quidem animi magni at sunt. A, magnam aspernatur repudiandae eos ex veniam perferendis aut, dolor saepe quis repellendus asperiores doloremque? Unde!
-            </small>
           </div>
+
+          <h5 className='client__name'>Ernest Achiecer</h5>
+          <small className="client__review">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum quidem animi magni at sunt. A, magnam aspernatur repudiandae eos ex veniam perferendis aut, dolor saepe quis repellendus asperiores doloremque? Unde!
+          </small>
         </article>
 
         <article className="testimonial">
           <div className="client__avatar">
             <img src={AVTR1} alt="Avatar one" />
-            <h5 className='client__name'>Ernest Achiecer</h5>
-            <small className="client__review">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum quidem animi magni at sunt. A, magnam aspernatur repudiandae eos ex veniam perferendis aut, dolor saepe quis repellendus asperiores doloremque? Unde!
-            </small>
           </div>
+
+          <h5 className='client__name'>Ernest Achiecer</h5>
+          <small className="client__review">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum quidem animi magni at sunt. A, magnam aspernatur repudiandae eos ex veniam perferendis aut, dolor saepe quis repellendus asperiores doloremque? Unde!
+          </small>
         </article>
       </div>
     </section>
