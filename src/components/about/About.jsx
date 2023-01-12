@@ -40,9 +40,9 @@ const About = () => {
           </div>
           <p>Oi! <br />
 
-            Estou me formando em ciências da computação pela UEPB. Onde eu iniciei a minha imersão no mundo da programação ao qual venho me especializando diariamente no desenvolvimento de aplicações webs. Atualmente faço parte de uma empresa Jr. chamada Knex a qual eu e uns amigos estamos nos dedicando muito, adquirindo conhecimentos e experiências em projetos reais. <br />
+            Eu sou um desenvolvedor fullstack com especialidade no desenvolvimento de aplicações WEB. Eu fiz parte de uma empresa Jr. chamada Knex a qual eu me dediquei muito, adquerindo conhecimento e experiência em diversas areas tais como: Gestão de pessoas, marketing digital, Gestão e planejamento de projetos. <br />
 
-            Eu sou apaixonado pelo back-end e atualmente estou em processo de especialização em javascript nodejs. Sou uma pessoa curiosa e costumo fazer muitas perguntas se me encontro com dúvidas. Cotidianamente eu sigo trabalhando na minha melhor versão, e uma frase que levo sempre comigo, é a seguinte: "Viva como um eterno aprendiz.". Pois, acredito que independente da idade, da especialização ou da formação... alguém sempre tem algo a nos ensinar.</p>
+            Eu sou apaixonado pelo desenvolvimento de aplicações web e atualmente estou em processo de especialização em javascript react e nodejs. Sou uma pessoa curiosa e costumo fazer muitas perguntas se me encontro com dúvidas. Cotidianamente eu sigo trabalhando na minha melhor versão.</p>
 
           <a href="#contact" className='btn btn-primary'>Vamos Conversar?</a>
         </div>

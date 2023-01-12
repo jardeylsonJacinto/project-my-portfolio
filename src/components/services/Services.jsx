@@ -17,32 +17,42 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Avaliação de Experiência e Usabilidade; </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Gamificação;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Arquitetura da Informação;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Prototipagem;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Prototipação de wireframes;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Design Web;</p>
+            </li>
+
+            <li>
+              <BiCheck className="service__list-icon"></BiCheck>
+              <p>Design Mobile;</p>
+            </li>
+
+            <li>
+              <BiCheck className="service__list-icon"></BiCheck>
+              <p>Análise de Briefing.</p>
             </li>
           </ul>
         </article>
@@ -56,37 +66,42 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Site Institucional;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Site Dinâmico;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Blogs;</p>
+            </li>
+            
+            <li>
+              <BiCheck className="service__list-icon"></BiCheck>
+              <p>Loja virtual / E-commerce;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Sites one page;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Landing pages;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Sites de conteúdo;</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Portal de conteúdo.</p>
             </li>
           </ul>
         </article>
@@ -100,22 +115,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Analise das metodologias SCRUM e KANBAN para o gerenciamento de projetos.</p>
             </li>
           </ul>
         </article>
