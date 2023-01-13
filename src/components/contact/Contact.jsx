@@ -13,21 +13,21 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <AiOutlineMail />
+            <AiOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>jardeylsong.m@gmail.com</h5>
             <a href="mailto:jardeylsong.m@gmail.com" target="_blank" rel="noreferrer">Envie uma mensagem.</a>
           </article>
 
           <article className="contact__option">
-            <RiMessengerLine />
+            <RiMessengerLine className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>Jardeylson Jacinto</h5>
             <a href="https://m.me/jardeylson.jacinto.5/" target="_blank" rel="noreferrer">Envie uma mensagem.</a>
           </article>
 
           <article className="contact__option">
-            <AiOutlineWhatsApp />
+            <AiOutlineWhatsApp className="contact__option-icon" />
             <h4>WhatsApp</h4>
             <h5>+55 (83) 99817-0254</h5>
             <a href="https://wa.me/send?phone+8399817-0254" target="_blank" rel="noreferrer">Envie uma mensagem.</a>
