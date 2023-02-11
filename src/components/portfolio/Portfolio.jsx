@@ -48,9 +48,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'This is a title for the poster',
-    github: '',
-    demo: ''
+    title: "Project NLW - setup",
+    github: 'https://github.com/jardeylsonJacinto/NLW-setup',
+    demo: '#'
   }
 ];
 
